@@ -9,4 +9,8 @@ hola mi nombre es ariadna y estoy aprendiendo github
 
 Hola, mi nombre es Ximena, estoy aprendiendo a colaborar en proyectos
 
+
 Me gusta la musica rock y mi banda favorita es ABDC y los escichos desde 2015 aproximadamente y me gusta la tecnologia moderna
+
+me gusta la musica de taylor swift y la escucho desde el 2018
+
