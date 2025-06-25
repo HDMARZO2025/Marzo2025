@@ -16,4 +16,5 @@ Me gusta la musica rock y mi banda favorita es ABDC y los escichos desde 2015 ap
 
 me gusta la musica de taylor swift y la escucho desde el 2018
 
+Me gusta escuchar pop, mis cantantes favoritos son Taylor Swift, Shawn Mendes y Mac DeMarco, también me gusta la tecnologia.
 
