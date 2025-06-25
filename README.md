@@ -8,3 +8,5 @@ Hola mi nomre es Jaime y estoy aprendiendo el curso de github :)
 hola mi nombre es ariadna y estoy aprendiendo github
 
 Hola, mi nombre es Ximena, estoy aprendiendo a colaborar en proyectos
+
+Me gusta escuchar pop, mis cantantes favoritos son Taylor Swift, Shawn Mendes y Mac DeMarco, también me gusta la tecnologia.
