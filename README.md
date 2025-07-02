@@ -1,9 +1,18 @@
 
-
-
 Configurando el Servidor
 
 ¡Bienvenido al repositorio de colaboración!
+
+
+--CONFIGURANDO EL SERVIDOR 
+
+ 
+ ¡Bienvenido al repositorio de colaboración!
+
+
+--CONFIGURANDO EL SERVIDOR JHAIR
+
+ 
 
 Hola mi nombre es Fatima y estoy aprendiendo a colaborar en github
 
