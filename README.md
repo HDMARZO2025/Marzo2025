@@ -40,3 +40,4 @@ Me ecanta el curso y espero aprender muchas cosas.
 
 Me gusta la musica pop, mi cantante favorito es Bruno Mars y lo escucho desde 2012. Me gusta leer.
 
+Configurando servidor - veronika
