@@ -1,5 +1,10 @@
  ¡Bienvenido al repositorio de colaboración!
 
+
+--CONFIGURANDO EL SERVIDOR JHAIR
+
+ 
+
 Hola mi nombre es Fatima y estoy aprendiendo a colaborar en github
 
 Hola mi nomre es Jaime y estoy aprendiendo el curso de github :)
